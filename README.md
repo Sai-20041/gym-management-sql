@@ -47,7 +47,8 @@ A complete Gym Management Database built using MySQL to manage members, trainers
 
 ## 📊 ER Diagram
 
-(Add ER Diagram image here)
+<img width="866" height="586" alt="Screenshot 2026-03-23 161922" src="https://github.com/user-attachments/assets/52380d8c-d201-47b7-bc04-31305e58d5b4" />
+
 
 ---
 
