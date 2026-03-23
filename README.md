@@ -49,7 +49,7 @@ A complete Gym Management Database built using MySQL to manage members, trainers
 
 <img width="866" height="586" alt="Screenshot 2026-03-23 161922" src="https://github.com/user-attachments/assets/52380d8c-d201-47b7-bc04-31305e58d5b4" />
 
-
+This ER diagram shows the relationship between members, subscriptions, trainers, plans, payments, and attendance in the gym management system.
 ---
 
 ## ▶️ How to Run
