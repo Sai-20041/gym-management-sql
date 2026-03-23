@@ -87,4 +87,4 @@ USE gym_db;
 
 ## 👨‍💻 Author
 
-Sai Chaithanya
+Laddagiri Sai Chaithanya
